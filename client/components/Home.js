@@ -36,7 +36,7 @@ export default function Home({ navigation }) {
                     coordinates: finalData.results[0].location.coordinates,
                     city: finalData.results[0].location.city,
                     country: finalData.results[0].location.country,
-                    avatar: finalData.results[0].picture.medium
+                    avatar: finalData.results[0].picture.large
                 }
 
                 const responsePost = await axios.post(`http://${Constants.manifest.IP_ADDRESS}:3001/users`, formData);
