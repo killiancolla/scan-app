@@ -4,4 +4,6 @@ Projet de première année de master en React Native, cette application permet d
 
 ## Installation
 
-Mettre votre adresse IP dans le fichier app.config.js pour pouvoir se connecter à son API en local 
+    - Mettre votre adresse IP dans le fichier app.config.js pour pouvoir se connecter à son API en local 
+    - Ouvrir un terminal et faire : "cd server; nodes server.js;" 
+    - Ouvrir un autrre terminal et faire : "cd client; npx expo start;" 
