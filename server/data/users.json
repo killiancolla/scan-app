@@ -1,0 +1,86 @@
+[
+  {
+    "gender": "female",
+    "firstname": "Beatrice",
+    "lastname": "Hunt",
+    "email": "beatrice.hunt@example.com",
+    "coordinates": {
+      "latitude": "88.3620",
+      "longitude": "2.2230"
+    },
+    "city": "Cape Fear",
+    "country": "United States",
+    "avatar": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "id": 1
+  },
+  {
+    "gender": "female",
+    "firstname": "Chiara",
+    "lastname": "Perrin",
+    "email": "chiara.perrin@example.com",
+    "coordinates": {
+      "latitude": "-16.7860",
+      "longitude": "78.2022"
+    },
+    "city": "Reims",
+    "country": "France",
+    "avatar": "https://randomuser.me/api/portraits/med/women/88.jpg",
+    "id": 2
+  },
+  {
+    "gender": "female",
+    "firstname": "Rosvita",
+    "lastname": "Lima",
+    "email": "rosvita.lima@example.com",
+    "coordinates": {
+      "latitude": "-76.9657",
+      "longitude": "90.6696"
+    },
+    "city": "São Luís",
+    "country": "Brazil",
+    "avatar": "https://randomuser.me/api/portraits/med/women/87.jpg",
+    "id": 3
+  },
+  {
+    "gender": "female",
+    "firstname": "Abigail",
+    "lastname": "Pelletier",
+    "email": "abigail.pelletier@example.com",
+    "coordinates": {
+      "latitude": "-72.7432",
+      "longitude": "110.4748"
+    },
+    "city": "Keswick",
+    "country": "Canada",
+    "avatar": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "id": 4
+  },
+  {
+    "gender": "male",
+    "firstname": "Aapo",
+    "lastname": "Waisanen",
+    "email": "aapo.waisanen@example.com",
+    "coordinates": {
+      "latitude": "-26.4206",
+      "longitude": "-94.9387"
+    },
+    "city": "Heinola",
+    "country": "Finland",
+    "avatar": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "id": 5
+  },
+  {
+    "gender": "male",
+    "firstname": "سورنا",
+    "lastname": "یاسمی",
+    "email": "swrn.ysmy@example.com",
+    "coordinates": {
+      "latitude": "17.0418",
+      "longitude": "-140.8021"
+    },
+    "city": "بوشهر",
+    "country": "Iran",
+    "avatar": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "id": 6
+  }
+]
