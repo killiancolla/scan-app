@@ -1,7 +1,11 @@
-# ScanApp
+# [Mobile] ScanApp
 ## Team
 
 - [Killian COLLA](https://github.com/killiancolla)
+
+## Technologies
+
+- ReactNative
 
 ## Links
 
