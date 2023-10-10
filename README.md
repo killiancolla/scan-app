@@ -1,4 +1,6 @@
 # [Mobile] ScanApp
+
+First year master's project in React Native, this application allows you to scan a QR Code coming from the API "https://randomuser.me/api" and to insert the user into the application, then it allows you to take appointments and have information about users
 ## Team
 
 - [Killian COLLA](https://github.com/killiancolla)
