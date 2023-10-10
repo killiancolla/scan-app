@@ -1,9 +1,34 @@
-# Scan App
+# ScanApp
+## Team
 
-Projet de première année de master en React Native, cette application permet de scanner un QR Code provenant de l'API "https://randomuser.me/api" et d'inserer les utilisateur dans l'application, ensuite elle permet de prendre des rendez-vous et d'avoir des informations sur les utilisateurs 
+- [Killian COLLA](https://github.com/killiancolla)
+
+## Links
+
+[Github](https://github.com/killiancolla/scan-app)
+
+## Download
+
+```sh
+git clone https://github.com/killiancolla/scan-app
+```
 
 ## Installation
+### Back-end
 
-    - Mettre votre adresse IP dans le fichier app.config.js pour pouvoir se connecter à son API en local 
-    - Ouvrir un terminal et faire : "cd server; nodes server.js;" 
-    - Ouvrir un autrre terminal et faire : "cd client; npx expo start;" 
+Update app.config.js with the right local API URL 
+
+```sh
+cd scan-app/server
+npm install
+nodes server.js
+```
+
+### Front-end
+
+
+```sh
+cd scan-app/client
+npm install
+npm start
+```
